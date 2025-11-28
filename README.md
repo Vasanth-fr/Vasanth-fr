@@ -11,13 +11,13 @@
 - ⚙️ Worked with **Golang, Bash, Groovy, gRPC, AppSheet, Grafana, LogicMonitor**
 - 🔥 Enjoy building backend systems, automation tools, and scalable workflows
 - 📚 Currently improving **System Design + DevOps Fundamentals**
-- 📩 Reach me at: **vasanthmdeveloper@gmail.com**
+- 📩 Reach me at: **vasanthmaathangi@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/vasanthmdeveloper" target="_blank">
+<a href="https://www.linkedin.com/in/vasanth-mathangi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
