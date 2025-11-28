@@ -25,40 +25,66 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-Java • Golang • Bash
+### **Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Backend:**  
-Spring Boot • REST APIs
+### **Frameworks & Libraries**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**Database:**  
-MySQL
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-**DevOps & Tools:**  
-Docker • Jenkins • Git • CI/CD Pipelines
+### **DevOps / Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Testing & Automation:**  
-Selenium WebDriver • JUnit • Groovy Scripts
+### **Testing & Automation**
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white)
 
-**Monitoring:**  
-Grafana • LogicMonitor
-
-**Other Tools:**  
-Postman • gRPC • AppSheet
+### **Monitoring**
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![LogicMonitor](https://img.shields.io/badge/LogicMonitor-0052CC?style=for-the-badge&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Online Quiz Application  
-Spring Boot + React + MySQL  
-Role-based access, authentication, email notifications, result tracking, CI/CD, Dockerized deployment.
+### 🔹 **Online Quiz Application** (Spring Boot + React + MySQL)  
+A full-stack quiz platform with authentication, timed quizzes, email alerts & result tracking.  
+🔗 *Repo:* https://github.com/Vasanth-fr/Online-Quiz-Application  
+🔗 *Live:* https://online-quiz-app-6yo4.onrender.com/home
 
-### 🔹 Automation Workflows  
-Automation for emails, triggers, internal dashboards (Golang, Groovy, Bash, Jenkins).
+---
 
-### 🔹 DevOps Deployments  
-Hands-on with containerization, CI/CD pipelines, monitoring dashboards.
+### 🔹 **Event Management System** (Spring Boot + Thymeleaf + MySQL)  
+A full-stack event management platform with event creation, registrations, user roles, and secure authentication.  
+🔗 *Repo:* https://github.com/Vasanth-fr/Event-Management-System  
+🔗 *Live:* https://event-management-system-7r8r.onrender.com/
+
+---
+
+### 🔹 **Automation Workflows – Jenkins + Groovy**  
+Automated emails, triggers & internal workflows during internship at Motorola.  
+Pipeline-based automation using Groovy, Jenkins, Bash & monitoring dashboards.  
+
+---
+
+### 🔹 **DevOps Deployments (Docker + CI/CD)**  
+Containerized backend apps, built & tested CI/CD pipelines, and deployed to staging.  
+
+---
+
+### 🔹 **Golang Automation Utilities**  
+CLI tools/scripts for automating internal tasks, parsing logs, and system utilities using Go.  
 
 ---
 
@@ -73,4 +99,3 @@ Hands-on with containerization, CI/CD pipelines, monitoring dashboards.
 </div>
 
 ---
-
