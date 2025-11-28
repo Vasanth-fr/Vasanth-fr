@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vasanth M</h1>
+<h1 align="center">VASANTH MATHANGI</h1>
 <h3 align="center">Java Backend Developer | Automation Engineer | DevOps Enthusiast</h3>
 
 ---
